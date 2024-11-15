@@ -1,3 +1,4 @@
+# Copyright (c) CASIA. All rights reserved.
 import torch.nn as nn
 from typing import Optional, Union, Callable
 import torch
