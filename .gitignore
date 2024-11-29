@@ -1,0 +1,4 @@
+*.pyc
+logs_mvtec/
+support_set/
+support_set.tar
