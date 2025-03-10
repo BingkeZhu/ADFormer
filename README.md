@@ -28,7 +28,7 @@ python test.py
 
 ## 🤗Acknowledgements
 
-- Thanks to [MaskFormer](https://github.com/facebookresearch/MaskFormer) for their wonderful work and code!
+- Thanks to [MaskFormer](https://github.com/facebookresearch/MaskFormer) and [RegAD](https://github.com/MediaBrain-SJTU/RegAD) for their wonderful work and code!
 
 ## 📖BibTeX
 
